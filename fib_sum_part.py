@@ -6,7 +6,7 @@ Created on Mon Aug 24 09:32:26 2020
 @author: mahsa
 
 In this module we find the last digit of the sum of the Fibonacci numbers in a range [m,n]
-If the input numbers are not that big, we can use the array implimentation of the Fibonacci numbers
+If the input numbers are not that big, we can use the array implementation of the Fibonacci numbers
 
 """
 
