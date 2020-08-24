@@ -7,6 +7,7 @@ Created on Mon Aug 24 09:32:26 2020
 
 In this module we find the last digit of the sum of the Fibonacci numbers in a range [m,n]
 If the input numbers are not that big, we can use the array implementation of the Fibonacci numbers
+Since we can prove that S[n]=F[n+2]-1 we can also prove that S=F[n+2]-F[m+1] in a range [m,n]
 
 """
 
