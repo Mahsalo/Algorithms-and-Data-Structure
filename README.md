@@ -45,3 +45,41 @@ In this module we find the sum of the squares of the Fibonacci numbers.
 The easiest way to find the sum of Squares of the first n Fibonacci numbers is
 to find F(n+1)*F(n) (The area of a rectangle formed by Fibonacci numbers)
 
+
+# MaxAdRevenue.py:
+In this module, we find the best permutations of two vectors such that the inner
+product is maximized, It is called maximum Ad revenue such that the biggest Ad slot
+is allocated to the most profitable Ad.
+inputs:
+    -number of Ads
+    -Profit per Ad: a
+    -Slot size: b
+output:
+    -Maximum a.b 
+    
+# MaxPrize.py:
+In this module we try to find th4e best pattern of summation of K 
+integers that would sum up to fixed value "n".
+
+# moneyChange.py:
+In this module, we find the optimal solution of the coin change problem using
+Greedy Algorithm, with a set of 1,5,10 cents we would like to choose a pattern
+with the minimum number of coins that sum up to "m" which is given as an input
+
+# maxLoot.py:
+In this module, we try to find the best combination of items that 
+the sum of the value would be maximum (Knapsack problem).
+The input: First Line: maximum number of items allowed and the full capacity
+The next lines show the weight and the value of the items
+The output: The maximum value put in the bag
+The solution would be to sort in terms of value-per-weight
+
+# carFuel.py:
+In this module we try to find the minimum number of times that a car needs a
+refill if the destination is d miles away and a full-tank helps with m miles each time.
+"n" is the number of stations available on the way 
+
+# maxSalary.py:
+In this module we try to find the best pattern of given digits so that it will 
+represent the biggest value possible.
+
