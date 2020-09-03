@@ -83,3 +83,23 @@ refill if the destination is d miles away and a full-tank helps with m miles eac
 In this module we try to find the best pattern of given digits so that it will 
 represent the biggest value possible.
 
+# binarySearch.py:
+In this module, we implement the binary search algoithm
+in order to find k elements in an array, the output is the index 
+of the elements in the array and -1 if there is none in the array
+
+# majorityVote.py:
+In this module, we try to find the maximum vote in an array
+using divide and conquer method with runtime O(nlog n), if the 
+frequency of occurance of any element in an array is more than n/2
+that element wins the maximum vote
+We can also implement the Moore method to achieve an even better
+performance with O(n)  
+
+# randQuickSort.py:
+In this module, we try to improve the quick sort algorithm 
+so that it would be  able to handle the case when there are too
+many equal elements in the array, this case would be the worst 
+case with O(n^2) for quick sort but we just solve it with 3 way partitioning
+
+
