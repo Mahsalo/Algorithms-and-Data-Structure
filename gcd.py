@@ -5,7 +5,7 @@ Created on Sun Aug 23 17:34:31 2020
 
 @author: mahsa
 In this module we find the Greatest Common Divisor of two integers using Euclidean
-Algorithm. Find the remainder and replace the reaminder with the quotient until 
+Algorithm. Find the remainder and replace the remainder with the quotient until 
 you hit 0 in the remainder.  
 """
 import numpy as np
