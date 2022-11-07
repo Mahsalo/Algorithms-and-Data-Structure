@@ -1,3 +1,5 @@
+#### Use hashmap or dictionary to track the indices to reduce the runtime from O(n^2) to O(n) and the space would increase from O(1) to O(n) but we care more about the time than space
+
 class Solution(object):
     def twoSum(self, nums, target):
         """
