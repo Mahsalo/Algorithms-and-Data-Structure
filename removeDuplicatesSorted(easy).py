@@ -1,3 +1,4 @@
+### Easy: since you can have extra space to store data
 def RemoveDuplicateSorted(nums):
     p1 = 0
     p2 = 1
