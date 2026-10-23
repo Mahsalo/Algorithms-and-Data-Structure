@@ -29,7 +29,7 @@ def StartOfCycle(head):
     if not has_cycle:
         return None
 
-    # Phase tw: find the starting point
+    # Phase two: find the starting point
     slow = head
     while slow !=fast: # they must defo. reach each other
         slow = slow.next
