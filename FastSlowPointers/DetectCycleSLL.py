@@ -7,9 +7,6 @@ class Node:
         self.val = val
         self.next = None
 
-class SLL:
-    def __init__(self, head):
-        self.head = None
 
 def hasCycleSLL(head):
     slow = head
